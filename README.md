@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michel
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me e-mail: michailelishere2004@gmail.com
 - 😄 Pronouns: he/him
